@@ -15,7 +15,7 @@ sections:
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: small
         variant: text
-        color: secondary
+        color: primary
       - type: Button
         label: Read the Docs
         url: 'https://docs.netlify.com/visual-editor/overview/'
