@@ -6,9 +6,9 @@ sections:
     title: AutoMobilem.cz
     subtitle: Testy aut objektivem mobilu
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      Zde naleznete testy automobilů a také první dojmy z testování novinek.
+      Veškerý můj obsah včetně krátkých 90 sekundových testů naleznete na
+      [VTTV.CZ](www.vttv.cz)
     actions:
       - type: Button
         label: Start Building
