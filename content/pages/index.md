@@ -28,7 +28,7 @@ sections:
         title: AutoMobilem.cz
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: "/images/Obrázek 20.11.2024 v\_13.38.jpg"
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
