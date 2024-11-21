@@ -28,7 +28,7 @@ sections:
         title: AutoMobilem.cz
         image:
           type: Image
-          url: "/images/Obrázek 20.11.2024 v\_13.38.jpg"
+          url: "/images/Snímek obrazovky 2024-11-21 v\_16.05.59.png"
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
