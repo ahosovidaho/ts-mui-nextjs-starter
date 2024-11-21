@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: VTTV.cz
+    title: AutoMobilem.cz
     subtitle: Testy aut objektivem mobilu
     text: >
       Zde naleznete testy automobilů a také první dojmy z testování novinek.
