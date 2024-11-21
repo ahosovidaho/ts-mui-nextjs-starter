@@ -9,7 +9,7 @@ sections:
       Zde naleznete recenze automobilů a také první dojmy z testování novinek. 
     actions:
       - type: Button
-        label: Start Building
+        label: Podrobnosti
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: small
         variant: outlined
