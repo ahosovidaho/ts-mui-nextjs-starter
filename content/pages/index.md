@@ -43,7 +43,7 @@ sections:
         title: Autodevadesástky.cz
         image:
           type: Image
-          url: "/images/Snímek obrazovky 2024-11-21 v\_16.49.30.png"
+          url: "/images/Snímek obrazovky 2024-11-21 v\_16.50.24.png"
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
