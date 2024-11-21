@@ -18,7 +18,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: "/images/Snímek obrazovky 2024-11-21 v\_16.05.59.png"
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
