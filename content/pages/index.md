@@ -5,10 +5,8 @@ sections:
   - type: HeroSection
     title: VTTV.cz
     subtitle: videa nejen o automobilech ...
-    text: >
-      Zde naleznete testy automobilů a také první dojmy z testování novinek.
-      Veškerý můj obsah včetně krátkých 90 sekundových testů naleznete na
-      [VTTV.CZ](www.vttv.cz)
+    text: |
+      Zde naleznete recenze automobilů a také první dojmy z testování novinek. 
     actions:
       - type: Button
         label: Start Building
