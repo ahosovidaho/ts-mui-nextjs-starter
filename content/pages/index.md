@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: VTTV.cz
-    subtitle: videa nejen o automobilech ...
+    subtitle: Videa nejen o automobilech ...
     text: >
       Vítejte na stránkách "Viktor Tamayo TV". Zde naleznete přehled mých
       projektů, ve kterých se věnuji recenzím automobilů a také prvním dojmům z
