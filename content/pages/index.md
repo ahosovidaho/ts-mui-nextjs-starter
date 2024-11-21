@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: VTTV.cz
-    subtitle: Testy aut objektivem mobilu
+    subtitle: videa nejen o automobilech ...
     text: >
       Zde naleznete testy automobilů a také první dojmy z testování novinek.
       Veškerý můj obsah včetně krátkých 90 sekundových testů naleznete na
