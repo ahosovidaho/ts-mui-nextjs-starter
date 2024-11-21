@@ -22,7 +22,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: PROJEKTY
-    subtitle: Section subtitle here
+    subtitle: AutoMobilem a AutoDevadesátky
     items:
       - type: Card
         title: AutoMobilem.cz
