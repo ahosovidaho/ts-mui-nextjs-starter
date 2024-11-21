@@ -31,10 +31,8 @@ sections:
           url: "/images/Snímek obrazovky 2024-11-21 v\_16.05.59.png"
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Auto mobilem - testy aut prostřednictvím mobilního telefonu. Naleznete
+          zde klasické testy 
         actions:
           - type: Button
             label: Read the Docs
